@@ -1,0 +1,3 @@
+[submodule "ReactChatApp-Backend"]
+	path = ReactChatApp-Backend
+	url = https://github.com/ma-9/ReactChatApp-Backend.git
